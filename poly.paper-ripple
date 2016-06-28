@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: paper-ripple
+# group: polymer
+# key: paper-ripple
+# contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
+# contributor: Rob Dodson
+# binding: 
+# --
+<paper-ripple></paper-ripple>

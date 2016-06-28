@@ -1,0 +1,23 @@
+# -*- mode: snippet -*-
+# name: polymer-element
+# group: polymer
+# key: polymer-element
+# contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
+# contributor: Rob Dodson
+# binding: 
+# --
+<dom-module id="${1:id}">
+  <template>
+    <style>
+     :host {
+       $2
+     }
+    </style>
+    $0
+  </template>
+  <script>
+   Polymer({
+     is: "$1"
+   });
+  </script>
+</dom-module>

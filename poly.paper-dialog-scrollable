@@ -1,0 +1,14 @@
+# -*- mode: snippet -*-
+# name: paper-dialog-scrollable
+# group: polymer
+# key: paper-dialog-scrollable
+# contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
+# contributor: Rob Dodson
+# binding: 
+# --
+<paper-dialog>
+	<h2>${1:Dialog Title}</h2>
+	<paper-dialog-scrollable>
+		$0
+	</paper-dialog-scrollable>
+</paper-dialog>

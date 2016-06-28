@@ -1,0 +1,13 @@
+# -*- mode: snippet -*-
+# name: iron-ajax
+# group: polymer
+# key: iron-ajax
+# contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
+# contributor: Rob Dodson
+# binding: 
+# --
+<iron-ajax
+ 	${1:auto}
+ 	url="${2}"
+ 	handle-as="${3:json}"
+ 	on-response="${4:handleResponse}"></iron-ajax>

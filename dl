@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: dl
+# key: dl
+# contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
+# binding: 
+<dl>
+    $0
+</dl>

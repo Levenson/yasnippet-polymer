@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: iron-media-query
+# group: polymer
+# key: iron-media-query
+# contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
+# contributor: Rob Dodson
+# binding: 
+# --
+<iron-media-query query="${1:min-width: 640px}" query-matches="{{${2:largeScreen}}}">
+</iron-media-query>

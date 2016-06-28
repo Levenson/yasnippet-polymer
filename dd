@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: dd
+# key: dd
+# contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
+# binding: 
+# --
+<dd>$1</dd>

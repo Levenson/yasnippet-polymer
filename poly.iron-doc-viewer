@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: iron-doc-viewer
+# group: polymer
+# key: iron-doc-viewer
+# contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
+# contributor: Rob Dodson
+# binding: 
+# --
+<iron-doc-viewer descriptor="{{${1:elementDescriptor}}}"></iron-doc-viewer>

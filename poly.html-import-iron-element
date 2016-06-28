@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: html-import-iron-element
+# group: polymer
+# key: import-iron-element
+# contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
+# contributor: Rob Dodson
+# binding: 
+# --
+<link rel="import" href="${1:bower_components}/iron-${2:icon}/iron-${2:icon}.html">

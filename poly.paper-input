@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: paper-input
+# group: polymer
+# key: paper-input
+# contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
+# contributor: Rob Dodson
+# binding: 
+# --
+<paper-input label="$0"></paper-input>

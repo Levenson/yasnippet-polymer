@@ -1,0 +1,13 @@
+# -*- mode: snippet -*-
+# name: paper-tabs
+# group: polymer
+# key: paper-tabs
+# contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
+# contributor: Rob Dodson
+# binding: 
+# --
+<paper-tabs selected="${1:0}">
+	<paper-tab>${2:TAB 1}</paper-tab>
+	<paper-tab>${3:TAB 2}</paper-tab>
+	<paper-tab>${4:TAB 3}</paper-tab>
+</paper-tabs>

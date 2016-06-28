@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: iron-a11y-keys
+# group: polymer
+# key: iron-a11y-keys
+# contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
+# contributor: Rob Dodson
+# binding: 
+# --
+<iron-a11y-keys target="${1:\{\{\}\}}" keys="${2:up down left right}" on-keys-pressed="{{${3:arrowHandler}}}"></iron-a11y-keys>

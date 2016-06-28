@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: paper-toggle-button
+# group: polymer
+# key: paper-toggle-button
+# contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
+# contributor: Rob Dodson
+# binding: 
+# --
+<paper-toggle-button${1: checked}></paper-toggle-button>

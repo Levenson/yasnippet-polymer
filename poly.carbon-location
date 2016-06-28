@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: carbon-location
+# group: polymer
+# key: carbon-location
+# contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
+# contributor: Rob Dodson
+# binding: 
+# --
+<carbon-location route="{{${1:route}}}" ${2:use-hash-as-path}></carbon-location>

@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: paper-autogrow-textarea
+# group: polymer
+# key: paper-autogrow-textarea
+# contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
+# contributor: Rob Dodson
+# binding: 
+# --
+<paper-autogrow-textarea id="${1:a1}">
+	<textarea id="${2:t1}"></textarea>
+<paper-autogrow-textarea>

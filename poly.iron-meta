@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: iron-meta
+# group: polymer
+# key: iron-meta
+# contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
+# contributor: Rob Dodson
+# binding: 
+# --
+<iron-meta key="${1:info}"></iron-meta>

@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: paper-material
+# group: polymer
+# key: paper-material
+# contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
+# contributor: Rob Dodson
+# binding: 
+# --
+<paper-material elevation="${1:1}">
+	$0
+</paper-material>

@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: iron-iconset-svg
+# group: polymer
+# key: iron-iconset-svg
+# contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
+# contributor: Rob Dodson
+# binding: 
+# --
+<iron-iconset-svg name="${1:my-icons}" size="${0:24}">
+	$0
+</iron-iconset-svg>
+

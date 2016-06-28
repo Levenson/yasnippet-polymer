@@ -1,0 +1,14 @@
+# -*- mode: snippet -*-
+# name: paper-tooltip
+# group: polymer
+# key: paper-tooltip
+# contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
+# contributor: Rob Dodson
+# binding: 
+# --
+<paper-tooltip
+  for="$1"
+  position="${2:bottom}"
+  offset="${3:14}">
+  $0
+</paper-tooltip>

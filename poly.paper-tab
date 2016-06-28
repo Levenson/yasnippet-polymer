@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: paper-tab
+# group: polymer
+# key: paper-tab
+# contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
+# contributor: Rob Dodson
+# binding: 
+# --
+<paper-tab>$0</paper-tab>
