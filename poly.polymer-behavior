@@ -1,9 +1,8 @@
 # -*- mode: snippet -*-
-# name: polymer-behavior
+# name: <script>...
 # group: polymer
-# key: polymer-behavior
+# key: <script-polymerbehavior
 # contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
-# contributor: Rob Dodson
 # binding: 
 # --
 /**

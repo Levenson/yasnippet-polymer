@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
-# name: neon-animated-pages
+# name: <neon-animated-pages selected=".." entry-animation=".."
 # group: polymer
-# key: neon-animated-pages
+# key: <neon-animated-pages
 # contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
 # contributor: Rob Dodson
 # binding: 

@@ -1,9 +1,8 @@
 # -*- mode: snippet -*-
-# name: paper-toolbar
+# name: <paper-toolbar class="..">..
 # group: polymer
-# key: paper-toolbar
+# key: <paper-toolbar
 # contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
-# contributor: Rob Dodson
 # binding: 
 # --
 <paper-toolbar class="${1:tall}">

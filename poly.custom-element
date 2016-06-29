@@ -3,18 +3,17 @@
 # group: polymer
 # key: custom-element
 # contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
-# contributor: Rob Dodson
 # binding: 
 # --
 var ${4:tmpl} = document.querySelector('${5:template}');
 
 var ${1:WidgetProto} = Object.create(HTMLElement.prototype);
 
-${1:WidgetProto}.createdCallback = function() {
-	var root = this.createShadowRoot();
-	root.appendChild(document.importNode(${4:tmpl}.content, true));
+$1.createdCallback = function() {
+  var root = this.createShadowRoot();
+  root.appendChild(document.importNode($4.content, true));
 };
 
 var ${2:Widget} = document.registerElement('${3:my-widget}', {
-	prototype: ${1:WidgetProto}
+  prototype: $1
 });

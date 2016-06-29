@@ -1,9 +1,8 @@
 # -*- mode: snippet -*-
-# name: polymer-element-stylesheet
+# name: <dom-module id=".."><link ...
 # group: polymer
-# key: polymer-element-stylesheet
+# key: <dom-module-stylesheet
 # contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
-# contributor: Rob Dodson
 # binding: 
 # --
 <!--

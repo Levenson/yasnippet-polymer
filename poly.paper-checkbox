@@ -1,9 +1,8 @@
 # -*- mode: snippet -*-
-# name: paper-checkbox
+# name: <paper-checkbox checked>
 # group: polymer
-# key: paper-checkbox
+# key: <paper-checkbox
 # contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
-# contributor: Rob Dodson
 # binding: 
 # --
-<paper-checkbox${1: checked}></paper-checkbox>
+<paper-checkbox ${1:checked}></paper-checkbox>

@@ -1,9 +1,8 @@
 # -*- mode: snippet -*-
-# name: paper-input
+# name: <paper-input label="..">
 # group: polymer
-# key: paper-input
+# key: <paper-input
 # contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
-# contributor: Rob Dodson
 # binding: 
 # --
 <paper-input label="$0"></paper-input>

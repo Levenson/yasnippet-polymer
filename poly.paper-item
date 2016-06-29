@@ -1,9 +1,8 @@
 # -*- mode: snippet -*-
-# name: paper-item
+# name: <paper-item>
 # group: polymer
-# key: paper-item
+# key: <paper-item
 # contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
-# contributor: Rob Dodson
 # binding: 
 # --
 <paper-item>$0</paper-item>

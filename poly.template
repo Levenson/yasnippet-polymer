@@ -1,9 +1,8 @@
 # -*- mode: snippet -*-
-# name: template
+# name: <template>..</template>
 # group: polymer
-# key: template
+# key: <template
 # contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
-# contributor: Rob Dodson
 # binding: 
 # --
-<template$1>$0</template>
+<template $1>$0</template>

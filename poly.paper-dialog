@@ -1,9 +1,8 @@
 # -*- mode: snippet -*-
-# name: paper-dialog
+# name: <paper-dialog>..
 # group: polymer
-# key: paper-dialog
+# key: <paper-dialog
 # contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
-# contributor: Rob Dodson
 # binding: 
 # --
 <paper-dialog>

@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
-# name: iron-doc-viewer
+# name: <iron-doc-viewer description="..">
 # group: polymer
-# key: iron-doc-viewer
+# key: <iron-doc-viewer
 # contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
 # contributor: Rob Dodson
 # binding: 

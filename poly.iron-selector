@@ -1,9 +1,8 @@
 # -*- mode: snippet -*-
-# name: iron-selector
+# name: <iron-selector selected="">
 # group: polymer
-# key: iron-selector
+# key: <iron-selector
 # contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
-# contributor: Rob Dodson
 # binding: 
 # --
 <iron-selector selected="${1:0}">

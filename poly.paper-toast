@@ -1,9 +1,8 @@
 # -*- mode: snippet -*-
-# name: paper-toast
+# name: <paper-toast text="..">..
 # group: polymer
-# key: paper-toast
+# key: <paper-toast
 # contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
-# contributor: Rob Dodson
 # binding: 
 # --
 <paper-toast text="${1:Your draft has been discarded.}">$0</paper-toast>

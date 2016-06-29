@@ -1,9 +1,8 @@
 # -*- mode: snippet -*-
-# name: polymer-element-full-strict
+# name: <dom-module> 'use strict' ..
 # group: polymer
-# key: polymer-element-full-strict
+# key: <dom-module-polymer-full-strict
 # contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
-# contributor: Rob Dodson
 # binding: 
 # --
 <link rel="import" href="$1/polymer/polymer.html">

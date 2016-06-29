@@ -1,9 +1,8 @@
 # -*- mode: snippet -*-
-# name: carbon-route
+# name: <carbon-route route="{{..}}" pattern="/:.." data="{{..}}" tail="{{..}}">
 # group: polymer
-# key: carbon-route
+# key: <carbon-route
 # contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
-# contributor: Rob Dodson
 # binding: 
 # --
 <carbon-route route="{{${1:route}}}" pattern="/:${2:page}" data="{{${3:data}}}" tail="{{${4:tail}}}"></carbon-route>

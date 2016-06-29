@@ -1,9 +1,8 @@
 # -*- mode: snippet -*-
-# name: template-dom-repeat
+# name: <template is="dom-repeat" ..
 # group: polymer
-# key: template-dom-repeat
+# key: <template-dom-repeat
 # contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
-# contributor: Rob Dodson
 # binding: 
 # --
 <template is="dom-repeat" items={{${1:array}}} 

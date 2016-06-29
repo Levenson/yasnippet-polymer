@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
-# name: <link rel="import" href="url"/>
-# key: import-href
+# name: <link rel="import" href=".."/>
+# key: <link-import-href
 # contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
 # binding: 
 # --
-<link rel="import" href="${1:url}" />
+<link rel="import" href="${1:url}">

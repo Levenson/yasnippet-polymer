@@ -1,9 +1,8 @@
 # -*- mode: snippet -*-
-# name: paper-drawer-panel
+# name: <paper-drawer-panel>...
 # group: polymer
-# key: paper-drawer-panel
+# key: <paper-drawer-panel
 # contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
-# contributor: Rob Dodson
 # binding: 
 # --
 <paper-drawer-panel>

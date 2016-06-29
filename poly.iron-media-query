@@ -1,9 +1,8 @@
 # -*- mode: snippet -*-
-# name: iron-media-query
+# name: <iron-media-query query=".." query-matches="{{..}}">
 # group: polymer
-# key: iron-media-query
+# key: <iron-media-query
 # contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
-# contributor: Rob Dodson
 # binding: 
 # --
 <iron-media-query query="${1:min-width: 640px}" query-matches="{{${2:largeScreen}}}">

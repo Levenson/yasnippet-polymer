@@ -1,9 +1,8 @@
 # -*- mode: snippet -*-
-# name: iron-icon
+# name: <iron-icon icon=""></iron-icon>
 # group: polymer
-# key: iron-icon
+# key: <iron-icon
 # contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
-# contributor: Rob Dodson
 # binding: 
 # --
 <iron-icon icon="$0"></iron-icon>

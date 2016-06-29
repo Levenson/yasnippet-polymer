@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
-# name: iron-ajax
+# name: <iron-ajax {auto} url=".." handle-as=".." on-response="..">
 # group: polymer
-# key: iron-ajax
+# key: <iron-ajax
 # contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
 # contributor: Rob Dodson
 # binding: 

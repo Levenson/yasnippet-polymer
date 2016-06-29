@@ -1,9 +1,8 @@
 # -*- mode: snippet -*-
-# name: paper-radio-group
+# name: <paper-radio-group selected="..">..
 # group: polymer
-# key: paper-radio-group
+# key: <paper-radio-group
 # contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
-# contributor: Rob Dodson
 # binding: 
 # --
 <paper-radio-group selected="${1:small}">

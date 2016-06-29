@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-# name: form
-# key: form
+# name: <form method=".." id=".." action="..">
+# key: <form
 # contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
 # binding: 
 # --

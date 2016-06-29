@@ -1,9 +1,8 @@
 # -*- mode: snippet -*-
-# name: paper-progress
+# name: <paper-progress value="..">
 # group: polymer
-# key: paper-progress
+# key: <paper-progress
 # contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
-# contributor: Rob Dodson
 # binding: 
 # --
 <paper-progress value="${1:10}"></paper-progress>

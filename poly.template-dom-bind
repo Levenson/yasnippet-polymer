@@ -1,9 +1,8 @@
 # -*- mode: snippet -*-
-# name: template-dom-bind
+# name: <template is="dom-bind">..
 # group: polymer
-# key: template-dom-bind
+# key: <template-dom-bind
 # contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
-# contributor: Rob Dodson
 # binding: 
 # --
 <template is="dom-bind">

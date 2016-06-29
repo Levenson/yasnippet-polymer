@@ -1,9 +1,8 @@
 # -*- mode: snippet -*-
-# name: paper-tooltip
+# name: <paper-tooltip for=".." position=".." offset="..">
 # group: polymer
-# key: paper-tooltip
+# key: <paper-tooltip
 # contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
-# contributor: Rob Dodson
 # binding: 
 # --
 <paper-tooltip

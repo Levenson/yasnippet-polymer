@@ -1,9 +1,8 @@
 # -*- mode: snippet -*-
-# name: array-selector
+# name: <array-selector id=".." items=".." selected=".." multi toggle>
 # group: polymer
-# key: array-selector
+# key: <array-selector
 # contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
-# contributor: Rob Dodson
 # binding: 
 # --
 <array-selector id="${1:selector}" 

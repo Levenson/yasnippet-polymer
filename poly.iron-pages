@@ -1,9 +1,8 @@
 # -*- mode: snippet -*-
-# name: iron-pages
+# name: <iron-pages selected=".."><section>..</section></iron-pages>
 # group: polymer
-# key: iron-pages
+# key: <iron-pages
 # contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
-# contributor: Rob Dodson
 # binding: 
 # --
 <iron-pages selected="${1:0}">

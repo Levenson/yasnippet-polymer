@@ -1,9 +1,9 @@
 # -*- mode: snippet -*-
-# name: webcomponentsjs
+# name: <script src="../webcomponentsjs-lite.js>
 # group: polymer
-# key: webcomponentsjs
+# key: <script-webcomponentsjs
 # contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
 # contributor: Rob Dodson
 # binding: 
 # --
-<script src="${0:bower_components}/webcomponentsjs/webcomponents-lite.js"></script>
+<script src="${0:../bower_components}/webcomponentsjs/webcomponents-lite.js"></script>

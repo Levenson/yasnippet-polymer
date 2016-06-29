@@ -1,9 +1,8 @@
 # -*- mode: snippet -*-
-# name: paper-button
+# name: <paper-button raised>..</paper-button>
 # group: polymer
-# key: paper-button
+# key: <paper-button
 # contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
-# contributor: Rob Dodson
 # binding: 
 # --
 <paper-button${1: raised}>$0</paper-button>

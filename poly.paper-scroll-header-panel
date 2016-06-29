@@ -1,9 +1,8 @@
 # -*- mode: snippet -*-
-# name: paper-scroll-header-panel
+# name: <paper-scroll-header-panel condenses class="flex">..
 # group: polymer
-# key: paper-scroll-header-panel
+# key: <paper-scroll-header-panel
 # contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
-# contributor: Rob Dodson
 # binding: 
 # --
 <paper-scroll-header-panel ${1:condenses} class="flex">
