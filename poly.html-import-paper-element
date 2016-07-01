@@ -5,4 +5,4 @@
 # contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
 # binding: 
 # --
-<link rel="import" href="../bower_components/paper-${1:element}/paper-$1.html">
+<link rel="import" href="${1:../}bower_components/paper-${2:element}/paper-$2.html">

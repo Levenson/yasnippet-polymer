@@ -5,4 +5,4 @@
 # contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
 # binding: 
 # --
-<link rel="import" href="../polymer/polymer.html">
+<link rel="import" href="${1:../}polymer/polymer.html">

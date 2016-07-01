@@ -5,4 +5,4 @@
 # contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
 # binding: 
 # --
-<link rel="import" href="../${1:bower_components}/iron-${2:element}/iron-$2.html">
+<link rel="import" href="${1:../}bower_components/iron-${2:element}/iron-$2.html">

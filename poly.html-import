@@ -1,8 +1,7 @@
 # -*- mode: snippet -*-
-# name: <link rel="import" href="bower_components/{..}/{..}.html">
-# group: polymer
-# key: <link-import 
+# name: <link rel="import" href=".."/>
+# key: <link-import
 # contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
 # binding: 
 # --
-<link rel="import" href="../${1:bower_components}/${2:element}/$2.html">
+<link rel="import" href="$1">
