@@ -3,7 +3,6 @@
 # group: polymer
 # key: <paper-dialog-scrollable
 # contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
-# contributor: Rob Dodson
 # binding: 
 # --
 <paper-dialog>

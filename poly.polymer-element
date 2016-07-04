@@ -5,6 +5,8 @@
 # contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
 # binding: 
 # --
+<link rel="import" href="${3:../../bower_components/polymer/polymer.html}">
+
 <dom-module id="${1:id}">
   <template>
     <style>

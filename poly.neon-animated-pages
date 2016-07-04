@@ -3,7 +3,6 @@
 # group: polymer
 # key: <neon-animated-pages
 # contributor: Vijayendra Bapte (vijayendra.bapte@gmail.com)
-# contributor: Rob Dodson
 # binding: 
 # --
 <neon-animated-pages selected="${1:0}" entry-animation="${2:slide-from-right-animation}" exit-animation="${3:slide-left-animation}">
