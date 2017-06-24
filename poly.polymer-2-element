@@ -1,0 +1,51 @@
+# -*- mode: snippet -*-
+# name: <polymer-2-element
+# group: polymer
+# key: <polymer-2-element
+# contributor: levenson@mmer.org
+# binding:
+# --
+
+<link rel="import" href="${3:../bower_components/polymer/polymer-element.html}">
+
+<!--
+     \`<${1:$(s-replace "-" "" (capitalize yas-text))}>\` is ${2:description}
+
+     @element ${1:$(s-replace "-" "" (capitalize yas-text))}
+   -->
+<dom-module id="$1">
+  <template>
+    <style>
+     :host {
+       display: block
+     }
+    </style>
+
+    $0
+
+  </template>
+
+  <script>
+   class ${1:$(s-replace "-" "" (capitalize yas-text))} extends Polymer.Element {
+
+     static get is() { return "$1"; }
+
+     static get properties() {
+       return {
+
+       };
+     }
+
+     constructor() {
+       super();
+     }
+
+     ready() {
+       super.ready();
+     }
+
+   }
+
+   window.customElements.define(${1:$(s-replace "-" "" (capitalize yas-text))}.is, ${1:$(s-replace "-" "" (capitalize yas-text))});
+  </script>
+</dom-module>
